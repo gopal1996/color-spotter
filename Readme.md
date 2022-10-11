@@ -6,7 +6,7 @@
 
 ## Deployment from master:
 
-> https://gopal1996.github.io/PixelArt/
+> https://gopal1996.github.io/color-spotter/
 
 ## Prerequisites
 
